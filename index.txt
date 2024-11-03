@@ -1,1 +1,2 @@
 we are inserting lines into file
+lines are added into file
